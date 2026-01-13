@@ -80,3 +80,77 @@ a:hover {
     font-size: 18px;
     font-weight: 900;
 }
+.career_objective h1{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.career_objective p{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    padding: 10px 0px;
+    font-weight: 400;
+}
+.skills{
+    padding: 20px 10px;
+    background-color: #e5e5e5;
+
+}
+.skills ul li{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.educationa h2{
+    font-size: 35px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.experience h2{
+    font-size: 35px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.experience h4{
+    font-size: 18px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.experience p{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+.projects h2{
+     font-size: 35px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.projects ol li{
+    padding: 10px;
+}
+.projects ol li .list-wrapper{
+
+    height: 100%;
+    color: #3d3a3a;
+    font-size: 18px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    background-color: #e5e5e5;
+    list-style: none;
+    text-align: center;
+    border-radius: 10px;
+}
+.projects ol li .list-wrapper{
+    font-size: 24px;
+}
+.projects ol li ul li{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    padding: 0;   
+}
